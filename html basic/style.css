@@ -1,0 +1,34 @@
+* , body , html {
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 8%;
+    padding-left: 8%;
+    background-color: #191919;
+    border-bottom: 1px solid red;
+    }
+    .logo{
+        font-family: ROBOTO;
+        font-size: 32px;
+    }
+    li{
+        list-style-type: none;
+        justify-content: right;
+    }
+   .content {
+    color: white;
+    position: absolute;
+    top: auto;
+    left: 40%;
+    bottom: 50%;
+    font-size: 32px;
+
+   }
